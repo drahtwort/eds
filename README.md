@@ -4,14 +4,14 @@
 
 #### ger
 
-- Die Universalbibliothek (1904) [[src](https://www.bundesarchiv.de/)]
-- Die gläserne Bibliothek (1926) [[src](http://d-nb.info/012993158)]
+- [Die Großstädte und das Geistesleben](https://github.com/drahtwort/txt/blob/master/docs/1903_die_grossstaedte_und_das_geistesleben.txt) (1903) [[src](https://katalog.ub.uni-leipzig.de/Record/0002521585)]
+- [Die Universalbibliothek](https://github.com/drahtwort/txt/blob/master/docs/1904_die_universalbibliothek.txt) (1904) [[src](https://www.bundesarchiv.de/)]
+- [Die gläserne Bibliothek](https://github.com/drahtwort/txt/blob/master/docs/1926_die_glaeserne_bibliothek.txt) (1926) [[src](http://d-nb.info/012993158)]
 
 ## Edit
 
 #### ger
 
-- Die Großstädte und das Geistesleben (1903) [[src](https://katalog.ub.uni-leipzig.de/Record/0002521585)]
 - Das Gehirn der Welt (1911) [[src](https://archive.org/details/NordUndSued1912Bd140)]
 - Notiz über den ›Wunderblock‹ (1925) [[src](https://archive.org/details/InternationaleZeitschriftFuumlrPsychoanalyseXi.band1925Heft1/page/n7)]
 - Vorsicht, Hochspannung! (1933) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=279336276)]
