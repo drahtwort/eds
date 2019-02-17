@@ -50,7 +50,6 @@
 
 #### deu
 
-- Das 1000jährige Reich der Maschinen (1910) [[src]()]
 - Das Registrierproblem in der Photographie (1931) [[src]()]
 - Stochastische Texte (1959) [[src]()]
 - Monte-Carlo-Texte (1959) [[src]()]
