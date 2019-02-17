@@ -10,6 +10,6 @@
 - Unser Buch (1927) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=129073288)]
 - Die Kunst des Lullus oder Eine Maschine, die den "Faust" dichten könnte (1929) [[src](https://katalog.ub.uni-leipzig.de/Record/0002534186)]
 - Der Lesesaal von morgen wird sich von dem heutigen wesentlich unterscheiden (1931) [[src](http://d-nb.info/574598898)]
-- Elektropolis die automatische Stadt! Vorsicht, Hochspannung! (1933) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=279336276)]
+- Vorsicht, Hochspannung! (1933) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=279336276)]
 - Die Nationalbibliothek in der Westentasche (1938) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=165994797)]
 - Das erste Wort über den Ozean (1943) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=27822881X)]
