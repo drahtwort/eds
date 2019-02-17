@@ -1,4 +1,4 @@
-# Transcriptions
+# Transcripts
 
 - Die Universalbibliothek (1904) [[src](https://www.bundesarchiv.de/)]
 - Das Gehirn der Menschheit (1907) [[src](https://archive.org/details/SddeutscheMonatshefte1907Jg04-2)]
