@@ -23,6 +23,7 @@
 #### ger
 
 - Das Gehirn der Menschheit (1907) [[src](https://archive.org/details/SddeutscheMonatshefte1907Jg04-2)]
+- Das 1000jährige Reich der Maschinen (1910) [[src](https://archive.org/details/dieweltinhundert00lbbe)]
 - Das drahtlose Jahrhundert (1910) [[src](https://archive.org/details/dieweltinhundert00lbbe)]
 - Magazin der Gesamtwissenschaft (1913) [[src](http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1913-08-04/27646518/)]
 - Rundfunk von morgen (1925) [[src](http://magazine.illustrierte-presse.de/die-zeitschriften/werkansicht/dlf/73410/81/0/)]
