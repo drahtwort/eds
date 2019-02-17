@@ -35,6 +35,25 @@
 
 ## Add
 
+#### deu
+
+- Das elektrische Jahrhundert (1899) [[src](#)]
+- Topographie der Typographie (1923) [[src](#)]
+- Das Registrierproblem in der Photographie (1931) [[src](#)]
+- Stochastische Texte (1959) [[src](#)]
+- Monte-Carlo-Texte (1959) [[src](#)]
+- Kein Graf ist Grün. Vollelektronische Dichter und Denker (1963) [[src](#)]
+- ›Computer-Dichtung‹. Zur Erzeugung von Texten mit Hilfe von datenverarbeitenden Anlagen (1966) [[src](#)]
+- Computer-Poeme (1969) [[src](#)]
+- Baukasten zu einer Theorie der Medien (1970) [[src](#)]
+- Eine imaginäre Universalbibliothek (1981) [[src](#)]
+- Kommunikation mit Zettelkästen (1984) [[src](#)]
+- Taste des Todes (1984) [[src](#)]
+- „Es ist eine Explosion des Quatsches“ (1987) [[src](#)]
+- Die Stadt ist ein Medium (1988) [[src](#)]
+- Der Datendandy (1994) [[src](#)]
+
+
 #### eng
 
 - The Future of the Wireless Art (1908) [[src](#)]
@@ -66,23 +85,6 @@
 - Scan this Book! (2006) [[src](#)]
 - Becoming Screen Literate (2008) [[src](#)]
 
-#### deu
-
-- Das elektrische Jahrhundert (1899) [[src](#)]
-- Topographie der Typographie (1923) [[src](#)]
-- Das Registrierproblem in der Photographie (1931) [[src](#)]
-- Stochastische Texte (1959) [[src](#)]
-- Monte-Carlo-Texte (1959) [[src](#)]
-- Kein Graf ist Grün. Vollelektronische Dichter und Denker (1963) [[src](#)]
-- ›Computer-Dichtung‹. Zur Erzeugung von Texten mit Hilfe von datenverarbeitenden Anlagen (1966) [[src](#)]
-- Computer-Poeme (1969) [[src](#)]
-- Baukasten zu einer Theorie der Medien (1970) [[src](#)]
-- Eine imaginäre Universalbibliothek (1981) [[src](#)]
-- Kommunikation mit Zettelkästen (1984) [[src](#)]
-- Taste des Todes (1984) [[src](#)]
-- „Es ist eine Explosion des Quatsches“ (1987) [[src](#)]
-- Die Stadt ist ein Medium (1988) [[src](#)]
-- Der Datendandy (1994) [[src](#)]
 
 #### fra
 
