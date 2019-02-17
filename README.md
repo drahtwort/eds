@@ -1,9 +1,9 @@
 # Transcriptions
 
-- Die Universalbibliothek (1904) [[src](]
+- Die Universalbibliothek (1904) [[src](https://www.bundesarchiv.de/)]
 - Das Gehirn der Menschheit (1907) [[src](https://archive.org/details/SddeutscheMonatshefte1907Jg04-2)]
 - Das drahtlose Jahrhundert (1910) [[src](https://archive.org/details/dieweltinhundert00lbbe)]
-- Das Gehirn der Welt (1911) [[src](https://archive.org/details/derenergetische00ostwgoog/)]
+- Das Gehirn der Welt (1911) [[src](https://archive.org/details/NordUndSued1912Bd140)]
 - Magazin der Gesamtwissenschaft (1913) [[src](http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1913-08-04/27646518/)]
 - Notiz über den ›Wunderblock‹ (1925) [[src](https://archive.org/details/InternationaleZeitschriftFuumlrPsychoanalyseXi.band1925Heft1/page/n7)]
 - Die gläserne Bibliothek (1926) [[src](http://d-nb.info/012993158)]
