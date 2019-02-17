@@ -1,5 +1,8 @@
 # Transcripts
 
+## ger
+
+- Die Großstädte und das Geistesleben (1903) [[src](https://katalog.ub.uni-leipzig.de/Record/0002521585)]
 - Die Universalbibliothek (1904) [[src](https://www.bundesarchiv.de/)]
 - Das Gehirn der Menschheit (1907) [[src](https://archive.org/details/SddeutscheMonatshefte1907Jg04-2)]
 - Das drahtlose Jahrhundert (1910) [[src](https://archive.org/details/dieweltinhundert00lbbe)]
