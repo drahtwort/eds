@@ -4,10 +4,11 @@
 
 #### ger
 
-- [Die Großstädte und das Geistesleben](https://github.com/drahtwort/txt/blob/master/docs/1903_die_grossstaedte_und_das_geistesleben.txt) (1903) [[src](https://katalog.ub.uni-leipzig.de/Record/0002521585)]
-- [Die Universalbibliothek](https://github.com/drahtwort/txt/blob/master/docs/1904_die_universalbibliothek.txt) (1904) [[src](https://www.bundesarchiv.de/)]
-- [Topographie der Typographie](https://github.com/drahtwort/txt/blob/master/docs/1923_topographie_der_typographie.txt) (1923) [[src](https://monoskop.org/images/5/5a/Merz_4_Banalitaeten.pdf#page=16)]
-- [Die gläserne Bibliothek](https://github.com/drahtwort/txt/blob/master/docs/1926_die_glaeserne_bibliothek.txt) (1926) [[src](http://d-nb.info/012993158)]
+- [Die Großstädte und das Geistesleben](https://drahtwort.github.io/txt/1903_die_grossstaedte_und_das_geistesleben.txt) (1903) [[src](https://katalog.ub.uni-leipzig.de/Record/0002521585)]
+- [Die Universalbibliothek](https://drahtwort.github.io/txt/1904_die_universalbibliothek.txt) (1904) [[src](https://www.bundesarchiv.de/)]
+- [Topographie der Typographie](https://drahtwort.github.io/txt/1923_topographie_der_typographie.txt) (1923) [[src](https://monoskop.org/images/5/5a/Merz_4_Banalitaeten.pdf#page=16)]
+- [Die gläserne Bibliothek](https://drahtwort.github.io/txt/1926_die_glaeserne_bibliothek.txt) (1926) [[src](http://d-nb.info/012993158)]
+- [Der Lesesaal von morgen](https://drahtwort.github.io/txt/1931_der_lesesaal_von_morgen.txt) (1931) [[src](http://d-nb.info/574598898)]
 
 ## Edit
 
@@ -15,7 +16,7 @@
 
 - Das Gehirn der Welt (1911) [[src](https://archive.org/details/NordUndSued1912Bd140)]
 - Notiz über den ›Wunderblock‹ (1925) [[src](https://archive.org/details/InternationaleZeitschriftFuumlrPsychoanalyseXi.band1925Heft1/page/n7)]
-- Der Lesesaal von morgen (1931) [[src](http://d-nb.info/574598898)]
+
 - Vorsicht, Hochspannung! (1933) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=279336276)]
 - Die Nationalbibliothek in der Westentasche (1938) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=165994797)]
 - Das erste Wort über den Ozean (1943) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=27822881X)]
