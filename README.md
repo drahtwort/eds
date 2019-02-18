@@ -14,7 +14,6 @@
 #### ger
 
 - Das Gehirn der Welt (1911) [[src](https://archive.org/details/NordUndSued1912Bd140)]
-
 - Notiz über den ›Wunderblock‹ (1925) [[src](https://archive.org/details/InternationaleZeitschriftFuumlrPsychoanalyseXi.band1925Heft1/page/n7)]
 - Der Lesesaal von morgen (1931) [[src](http://d-nb.info/574598898)]
 - Vorsicht, Hochspannung! (1933) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=279336276)]
