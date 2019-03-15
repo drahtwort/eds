@@ -23,7 +23,6 @@ see source bibliography [here](https://drahtwort.github.io/ref/editions.html)
 #### Fill
 
 - Das elektrische Jahrhundert (1899) [[src](http://d-nb.info/362171262)]
-
 - Das 1000jährige Reich der Maschinen (1910) [[src](https://archive.org/details/dieweltinhundert00lbbe)]
 - Das drahtlose Jahrhundert (1910) [[src](https://archive.org/details/dieweltinhundert00lbbe)]
 - Magazin der Gesamtwissenschaft (1913) [[src](http://zefys.staatsbibliothek-berlin.de/kalender/auswahl/date/1913-08-04/27646518/)]
