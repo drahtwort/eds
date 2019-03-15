@@ -4,10 +4,10 @@
 
 #### ger
 
-- [Die Universalbibliothek](https://drahtwort.github.io/txt/1904_die_universalbibliothek.txt) (1904) [[src](https://www.bundesarchiv.de/)]
-- [Topographie der Typographie](https://drahtwort.github.io/txt/1923_topographie_der_typographie.txt) (1923) [[src](https://monoskop.org/images/5/5a/Merz_4_Banalitaeten.pdf#page=16)]
-- [Die gläserne Bibliothek](https://drahtwort.github.io/txt/1926_die_glaeserne_bibliothek.txt) (1926) [[src](http://d-nb.info/012993158)]
-- [Der Lesesaal von morgen](https://drahtwort.github.io/txt/1931_der_lesesaal_von_morgen.txt) (1931) [[src](http://d-nb.info/574598898)]
+- [Die Universalbibliothek](https://drahtwort.github.io/eds/1904_die_universalbibliothek.txt) (1904) [[src](https://www.bundesarchiv.de/)]
+- [Topographie der Typographie](https://drahtwort.github.io/eds/1923_topographie_der_typographie.txt) (1923) [[src](https://monoskop.org/images/5/5a/Merz_4_Banalitaeten.pdf#page=16)]
+- [Die gläserne Bibliothek](https://drahtwort.github.io/eds/1926_die_glaeserne_bibliothek.txt) (1926) [[src](http://d-nb.info/012993158)]
+- [Der Lesesaal von morgen](https://drahtwort.github.io/eds/1931_der_lesesaal_von_morgen.txt) (1931) [[src](http://d-nb.info/574598898)]
 
 ## Edit
 
