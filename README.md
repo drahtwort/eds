@@ -1,6 +1,6 @@
 # Editions
 
-see source bibliography [here](https://drahtwort.github.io/ref/editions.html)
+see source bibliography [here](https://drahtwort.github.io/ref/eds.html)
 
 ## Transcripts
 
