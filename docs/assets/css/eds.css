@@ -2,5 +2,12 @@ body { color: #000000; }
 a:hover { text-decoration: none; color: #ee0000; }
 a { text-decoration: none; color: #000000; }
 pre { word-wrap: break-word; white-space: pre-wrap; }
+/* index.html */
+.done {background-color: #00ff7f;}
+.edit {background-color: #00bfff;}
+.doit {background-color: #ff6347;}
+.bibl {background-color: #da70d6;}
+.near {background-color: #daa520;}
+/* autXX.oeuYY.lang */
 .title { /* word-wrap: normal; white-space: pre; */ }
 .text { /* word-wrap: break-word; white-space: pre-wrap; */ }
