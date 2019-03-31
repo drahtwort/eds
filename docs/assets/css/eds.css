@@ -2,4 +2,4 @@ body { color: #000000; }
 a:hover { text-decoration: none; color: #ee0000; }
 a { text-decoration: none; color: #000000; }
 pre {word-wrap: break-word; white-space: pre-wrap;}
-.title {word-wrap: normal;}
+.title {word-wrap: normal; white-space: pre;}
