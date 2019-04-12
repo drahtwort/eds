@@ -1,7 +1,9 @@
-const endpoint = "https://miscella.github.io/txt/"
+/* const endpoint = "https://miscella.github.io/txt/" */
+const endpoint = "https://drahtwort.github.io/plain/"
 
 function loadTextContent(textId) {
-    var url = endpoint + textId + ".txt";
+    var dir = textId.substr(0,textId.length-4).replace(/\./g,"/") + "/";
+    var url = endpoint + dir + textId + ".txt";
     var xhttp;
     xhttp=new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
