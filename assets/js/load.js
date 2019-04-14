@@ -28,7 +28,7 @@ function loadTextContent(textId) {
 
 function showText(element) {
     element.removeAttribute("onclick");
-    document.getElementById("edition").onclick = function() {window.location.href = "./"};
+    /* document.getElementById("edition").onclick = function() {window.location.href = "./"}; */
     var span = element.parentElement;
     var parent = span.parentElement;
     parent.innerHTML = '\n';
